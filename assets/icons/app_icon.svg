@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="#667EEA"/>
+  
+  <!-- Shield outline -->
+  <path d="M256 80 C320 80, 360 100, 360 140 L360 260 C360 340, 320 400, 256 440 C192 400, 152 340, 152 260 L152 140 C152 100, 192 80, 256 80 Z" 
+        fill="#FFFFFF" opacity="0.9"/>
+  
+  <!-- Inner shield -->
+  <path d="M256 110 C310 110, 340 125, 340 155 L340 250 C340 315, 310 365, 256 395 C202 365, 172 315, 172 250 L172 155 C172 125, 202 110, 256 110 Z" 
+        fill="#667EEA"/>
+  
+  <!-- Security lock icon -->
+  <rect x="220" y="240" width="72" height="60" rx="8" fill="#FFFFFF"/>
+  <path d="M240 220 C240 210, 248 200, 256 200 C264 200, 272 210, 272 220 L272 240 L240 240 Z" 
+        fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  
+  <!-- Small dot for lock -->
+  <circle cx="256" cy="270" r="4" fill="#667EEA"/>
+  
+  <!-- Security pattern lines -->
+  <path d="M200 180 L230 180" stroke="#FFFFFF" stroke-width="3" opacity="0.7"/>
+  <path d="M282 180 L312 180" stroke="#FFFFFF" stroke-width="3" opacity="0.7"/>
+  <path d="M200 200 L220 200" stroke="#FFFFFF" stroke-width="3" opacity="0.5"/>
+  <path d="M292 200 L312 200" stroke="#FFFFFF" stroke-width="3" opacity="0.5"/>
+  
+  <!-- Raksha text at bottom -->
+  <text x="256" y="380" font-family="Arial, sans-serif" font-size="28" font-weight="bold" 
+        text-anchor="middle" fill="#FFFFFF">RAKSHA</text>
+</svg>

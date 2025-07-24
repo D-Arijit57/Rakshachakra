@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "572107554582",
+      "project_id": "rakshachakra-8756d",
+      "storage_bucket": "rakshachakra-8756d.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:572107554582:android:932189aa90a6151cac1a37",
+          "android_client_info": {
+            "package_name": "com.example.raksha"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyD7ZrBM8VaKbL-AyM4M-1STYLmnJx6y_50"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
