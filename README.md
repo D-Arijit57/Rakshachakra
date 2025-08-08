@@ -28,7 +28,7 @@ Raksha addresses these challenges by implementing a sophisticated behavior-based
 ## 🧠 **Core Innovation: Behavioral Biometrics Engine**
 
 ### **What We Monitor**
-Our system continuously captures and analyzes multiple behavioral dimensions:
+The system continuously captures and analyzes multiple behavioral dimensions:
 
 #### 📱 **Touch Dynamics**
 - **Pressure Patterns**: How hard you press the screen
@@ -66,7 +66,7 @@ Our system continuously captures and analyzes multiple behavioral dimensions:
 ## ⚡ **Real-Time Risk Assessment System**
 
 ### **Cloud-Based ML Pipeline**
-Our behavior analysis happens in real-time through a sophisticated cloud infrastructure:
+The behavior analysis happens in real-time through a sophisticated cloud infrastructure:
 
 - **Data Collection**: Behavioral data collected during app usage
 - **Feature Extraction**: 25+ behavioral features processed per session
@@ -121,7 +121,7 @@ Our behavior analysis happens in real-time through a sophisticated cloud infrast
 ## 🔬 **Technical Innovation Details**
 
 ### **Behavioral Feature Engineering**
-Our system extracts and analyzes over 25 unique behavioral features:
+The system extracts and analyzes over 25 unique behavioral features:
 - Touch pressure variance and rhythm patterns
 - Swipe velocity profiles and acceleration curves
 - Device orientation stability and movement signatures
@@ -178,7 +178,7 @@ Our system extracts and analyzes over 25 unique behavioral features:
 
 ## 🛡️ **Privacy & Security Commitment**
 
-Our hackathon solution prioritizes user privacy while delivering maximum security:
+This solution prioritizes user privacy while delivering maximum security:
 
 - **Local Processing**: Sensitive behavioral data processed on-device
 - **Encrypted Transmission**: Secure cloud communication with end-to-end encryption  
@@ -201,7 +201,3 @@ Our hackathon solution prioritizes user privacy while delivering maximum securit
 
 *This project represents the next evolution in mobile banking security - where your behavior becomes your strongest defense against fraud.*
 
----
-
-**Hackathon Theme: Enhancing Mobile Banking Security Using Behavior-Based Continuous Authentication**  
-*Submitted by: Team Raksha*
